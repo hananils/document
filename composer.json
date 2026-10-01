@@ -1,0 +1,21 @@
+{
+    "name": "hananils/document",
+    "description": "HTML documents",
+    "type": "library",
+    "version": "2.0.0",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Hananils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Büro für Gestaltung",
+            "email": "buero@hananils.de"
+        }
+    ],
+    "require": {
+        "php": "^8.5"
+    }
+}
